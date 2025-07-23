@@ -1,7 +1,6 @@
-## 프론트엔드 개발자 오세연입니다😎
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metzo32&theme=react)😎
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
 
 ---
